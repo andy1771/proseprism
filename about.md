@@ -5,6 +5,6 @@ title: About Us
 
 ## About
 
-This is about us.
-
-Enjoy!
+<p> Greetings everyone! </p>
+We are two awesome homo sapiens from NIT-Hamirpur hoping to get this thing afloat. Hope you like it here!!
+:)
